@@ -14,5 +14,6 @@ public class Main {
         if (!(1 <= x && x <= 100)) {
             System.out.println("1에서 100사이의 값이 아닙니다.");
         }
+        sc.close();
     }
 }
